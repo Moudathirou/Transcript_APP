@@ -1,3 +1,7 @@
+## 📸 Aperçu de l'appli
+![app](https://github.com/user-attachments/assets/16241ed8-4518-4a49-a16b-501abbe97262)
+
+
 **Audio/Video Transcription & Summary App** est une application intuitive permettant de transcrire des fichiers audio ou vidéo en texte et de résumer automatiquement les transcriptions. Téléchargez un fichier audio ou vidéo, obtenez instantanément la transcription, et générez un résumé en un clic !
 
 ## 🚀 Fonctionnalités
@@ -43,7 +47,6 @@ Clé API OpenAI : Vous aurez besoin d'une clé API OpenAI pour accéder à GPT-4
 
 ## 📸 Aperçu de l'appli
 
-![app](https://github.com/user-attachments/assets/16241ed8-4518-4a49-a16b-501abbe97262)
 
 
 
