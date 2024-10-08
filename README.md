@@ -13,7 +13,7 @@
 ## 🛠️ Technologies utilisées
 
 - **Whisper sur Groq** : Pour une transcription rapide et précise des fichiers audio et vidéo.
-- **OpenAI GPT-4-mini** : Pour générer des résumés intelligents et concis à partir des transcriptions.
+- **OpenAI GPT-4o-mini** : Pour générer des résumés intelligents et concis à partir des transcriptions.
 - **Python 3.9** : Langage de programmation pour le backend, garantissant la stabilité et la performance.
 
 ## 📥 Installation
