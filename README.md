@@ -5,7 +5,7 @@
 ## 🚀 Fonctionnalités
 
 - **Transcription automatique** : Téléchargez simplement votre fichier audio ou vidéo, et la transcription s'affichera automatiquement grâce à Whisper optimisé pour Groq.
-- **Résumé en un clic** : Une fois la transcription affichée, cliquez sur le bouton **"Résumer"** pour obtenir un résumé concis grâce à OpenAI GPT-4-mini.
+- **Résumé en un clic** : Une fois la transcription affichée, cliquez sur le bouton **"Résumer"** pour obtenir un résumé concis grâce à OpenAI GPT-4o-mini.
 - **Support de multiples formats** : Prend en charge les formats audio et vidéo les plus courants, comme MP3, WAV, MP4, et bien plus encore.
 - **Export facile** : Téléchargez les transcriptions et les résumés pour une utilisation ultérieure sous forme de fichiers texte.
 - **Interface utilisateur intuitive** : Conçue pour être accessible à tous, même sans compétences techniques avancées.
