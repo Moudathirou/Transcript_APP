@@ -43,13 +43,3 @@ Clé API OpenAI : Vous aurez besoin d'une clé API OpenAI pour accéder à GPT-4
 
    OPENAI_API_KEY=your_api_key_here
    GROQ_API_KEY=your_api_key_here
- 
-
-## 📸 Aperçu de l'appli
-
-
-
-
-
-
-
