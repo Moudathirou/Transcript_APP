@@ -23,8 +23,8 @@
 1. Clonez le dépôt :
 
    ```bash
-   git clone https://github.com/username/transcription-app.git
-   cd transcription-app
+   git clone https://github.com/Moudathirou/Transcript_APP.git
+   cd Transcript_APP
    
 2. Installez les dépendances :
    ```bash
